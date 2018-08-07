@@ -1,7 +1,7 @@
 # pxToRem
 A short bash script to convert px values to REM
 
-##Usage
+## Usage
 ```bash
  bash path/to/pxtorem.sh pxvalue
 ```
